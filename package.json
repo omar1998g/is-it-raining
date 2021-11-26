@@ -1,0 +1,13 @@
+{
+  "name": "is-it-raining",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Omar González <omar.1998g@gmail.com",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
