@@ -8,6 +8,6 @@
   },
   "author": "Omar González <omar.1998g@gmail.com",
   "devDependencies": {
-    "electron": "^16.0.2"
+    "electron": "^19.0.10"
   }
 }
